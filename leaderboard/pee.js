@@ -49,7 +49,7 @@ const leaderboard = [
   },
   {
     name: 'Placeholder',
-    team: '',
+    team: 'gray',
     gap: '228'
   },
   {
