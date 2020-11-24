@@ -25,67 +25,67 @@ const leaderboard = [
   {
     name: 'Placeholder ★',
     team: 'gray',
-    gap: '1,671'
+    gap: '0'
   },
   {
     name: 'Placeholder ★',
     team: 'gray',
-    gap: '927'
+    gap: '0'
   },
   {
     name: 'Placeholder ★',
     team: 'gray',
-    gap: '619'
+    gap: '0'
   },
   {
     name: 'Placeholder',
     team: 'gray',
-    gap: '497'
+    gap: '0'
   },
   {
     name: 'Placeholder',
     team: 'gray',
-    gap: '304'
+    gap: '0'
   },
   {
     name: 'Placeholder',
     team: 'gray',
-    gap: '228'
+    gap: '0'
   },
   {
     name: 'Placeholder',
     team: 'gray',
-    gap: '170'
+    gap: '0'
   },
   {
     name: 'Placeholder',
     team: 'gray',
-    gap: '161'
+    gap: '0'
   },
   {
     name: 'Placeholder',
     team: 'gray',
-    gap: '158'
+    gap: '0'
   },
   {
     name: 'Placeholder',
     team: 'gray',
-    gap: '158'
+    gap: '0'
   },
   {
     name: 'Placeholder',
     team: 'gray',
-    gap: '141'
+    gap: '0'
   },
   {
     name: 'Placeholder',
     team: 'gray',
-    gap: '64'
+    gap: '0'
   },
   {
     name: 'Placeholder',
     team: 'gray',
-    gap: '63'
+    gap: '0'
   },
 ];
 
