@@ -23,67 +23,67 @@ const colors = {
 // array describing the drivers, sorted by position and with a gap describing the distance from the leading driver
 const leaderboard = [
   {
-    name: 'CircusBabySl6 ★',
+    name: 'Placeholder ★',
     team: 'gray',
     gap: '1,671'
   },
   {
-    name: 'PipTheOtter ★',
+    name: 'Placeholder ★',
     team: 'gray',
     gap: '927'
   },
   {
-    name: 'NeIIas ★',
-    team: 'light_purple',
+    name: 'Placeholder ★',
+    team: 'gray',
     gap: '619'
   },
   {
-    name: 'Virusa',
+    name: 'Placeholder',
     team: 'gray',
     gap: '497'
   },
   {
-    name: 'Chris1656',
+    name: 'Placeholder',
     team: 'gray',
     gap: '304'
   },
   {
-    name: 'ninevolt',
-    team: 'light_purple',
+    name: 'Placeholder',
+    team: '',
     gap: '228'
   },
   {
-    name: 'DrainerDragon',
+    name: 'Placeholder',
     team: 'gray',
     gap: '170'
   },
   {
-    name: 'LeiCha',
-    team: 'light_purple',
+    name: 'Placeholder',
+    team: 'gray',
     gap: '161'
   },
   {
-    name: 'chloeeechlo',
-    team: 'light_purple',
-    gap: '158'
-  },
-  {
-    name: 'Xean',
+    name: 'Placeholder',
     team: 'gray',
     gap: '158'
   },
   {
-    name: 'Seks',
-    team: 'dark_purple',
+    name: 'Placeholder',
+    team: 'gray',
+    gap: '158'
+  },
+  {
+    name: 'Placeholder',
+    team: 'gray',
     gap: '141'
   },
   {
-    name: 'Ch40s_',
-    team: 'black',
+    name: 'Placeholder',
+    team: 'gray',
     gap: '64'
   },
   {
-    name: 'xlasey',
+    name: 'Placeholder',
     team: 'gray',
     gap: '63'
   },
